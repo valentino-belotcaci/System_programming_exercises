@@ -1,0 +1,2 @@
+invalid rules file tests/BAD_RULES
+the program must terminate without printing this line.
