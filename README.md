@@ -1,4 +1,4 @@
-# Systems Programming Exercises
+# Systems Programming Exercises 2024/2025
 
 This repository is a collection of exercises and solutions developed to prepare for the Systems Programming examinations. 
 
